@@ -1,0 +1,37 @@
+.jumbotron {
+    padding:20px;
+    background-image: linear-gradient(to left, rgb(30,30,255),black,gold);
+    color: white;
+}
+#joinButton {
+    background-color: gold;
+    color: white;
+}
+body {
+    background-color: black;
+}
+.backroundsubaru.jpg:hover {
+    opacity: 0.5;
+}
+h5 {
+    color: white;
+}
+.navbar {
+    background-color: black;
+}
+body {
+    background-image: linear-gradient(to left, rgb(30,30,255),black,gold);
+}
+.modal-header {
+    background-image: linear-gradient(to left, rgb(30,30,255),black,gold);
+}
+#loginModal{
+    cursor: pointer;
+}
+#carousel {
+    height: 60%; width: 60%;
+
+}
+.jumbotron {
+opacity: 0.9;
+}
